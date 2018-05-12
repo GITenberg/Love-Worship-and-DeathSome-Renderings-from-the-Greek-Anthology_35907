@@ -1,0 +1,29 @@
+_repo: Love-Worship-and-DeathSome-Renderings-from-the-Greek-Anthology_35907
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rodd, Rennell
+    aliases:
+    - Rennell, James Rennell Rodd, Baron
+    - Rodd, James Rennell
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '37970'
+    url: http://www.gutenberg.org/2009/agents/37970
+description: ''
+gutenberg_issued: '2011-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry -- Translations into English'
+title: 'Love, Worship and Death: Some Renderings from the Greek Anthology'
+url: http://www.gutenberg.org/ebooks/35907
